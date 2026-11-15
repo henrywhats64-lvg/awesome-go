@@ -9,7 +9,7 @@ body:
 
          you have a feature idea or need help, please go to our Forum https://github.com/avelino/awesome/discussions).
         before opening the issue we recommend that you read our contribution guide https://github.com/avelino/awesome/blob/main/CONTRIBUTING.txt, there we talk about how you can contribute to awesome-go.
-  - type: checkboxes
+   type: checkboxes
     id: confirm-search
     attributes:
       label: Search first
@@ -21,8 +21,8 @@ existing issues https://github.com/avelino/awesome/issues) and  awesome forum ht
    type: textarea
     id: default 
     attributes:
-      label: What Happened?
-      description: |
+      label: Happened
+      description:none
         Please provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner.
-    validations:
-      required: true
+    validations:0
+      required: false
