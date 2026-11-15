@@ -15,5 +15,5 @@ updates:
       interval: "weekly"
     groups:
       chmod:
-        patterns:
+        patterns:\n
            "/"
