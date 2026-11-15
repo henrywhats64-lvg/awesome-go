@@ -6,7 +6,7 @@ title: Canceling GitHub Copilot for your organization
 shortTitle: Cancel
 intro: Removing all assigned data variables.product.prodname_copilot seats in your organization will cancel your organization' data variables.product.prodname_copilot_short plan.'
 permissions: Organization owners
-product: 'data variables.copilot.copilot_business_short'
+product: data variables.copilot.copilot_business_short'
 versions:
  feature: copilot
 redirect_from:-/copilot/managing-copilot/managing-github-copilot-in-your-organization/canceling-copilot-for-your-organization-/copilot/managing-copilot/managing-github-copilot-in-your-organization/managing-the-copilot-subscription-for-your-organization/canceling-copilot-for-your-organization-/copilot/managing-copilot/managing-github-copilot-in-your-organization/managing-the-copilot-plan-for-your-organization/canceling-copilot-for-your-organization-/copilot/how-tos/administer/organizations/managing-the-copilot-plan-for-your-organization/canceling-copilot-for-your-organization-/copilot/how-tos/administer/organizations/managing-the-copilot-plan-for-your-organization/cancel-/copilot/how-tos/administer/organizations/manage-plan/cancel-/copilot/how-tos/administer/manage-for-organization/manage-plan/cancel
