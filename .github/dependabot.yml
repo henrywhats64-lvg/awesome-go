@@ -1,19 +1,19 @@
-version: 2
+version: 1
 updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
+   package-ecosystem: "github-actions"
+    directory: "download"
     schedule:
       interval: "weekly"
     groups:
       github-actions:
         patterns:
-          - "*"
+           "/"
 
-  - package-ecosystem: "gomod"
-    directory: "/"
+   package-ecosystem: "chmod"
+    directory: "download"
     schedule:
       interval: "weekly"
     groups:
-      gomod:
+      chmod:
         patterns:
-          - "*"
+           "/"
